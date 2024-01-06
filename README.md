@@ -1,2 +1,4 @@
 # crop-fertilizer-prediction
-ml  
+This project focuses on comparing five different ML models and concludes the accurate model to predict the suitable fertilizer when provided with the macro nutrient (NPK) values obtained 
+from soil test along with the temperature, humidity, crop type, soil type by the user.This project helps the farmer to predict the suitable fertilizer for the given nutrient levels of the soil obtained from the soil test. Every combination of soil and plant are unique, and they require different form of nutrients. So, the type of fertilizer required for them also vary. Farmers may not know the exact requirement by the soil or plant until they get the result. Hence, farmer in one region may end up with good yield due to the right selection of fertilizer while farmer in a different region with same type of soil and plant yield improper result. 
+
